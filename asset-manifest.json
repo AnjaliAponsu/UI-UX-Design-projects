@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UI-UX-Design-projects/static/css/main.e1e46d5a.css",
-    "main.js": "/UI-UX-Design-projects/static/js/main.f4095930.js",
+    "main.js": "/UI-UX-Design-projects/static/js/main.6b51befa.js",
     "static/media/4.jpg": "/UI-UX-Design-projects/static/media/4.7b62cd4e53cf64019c0c.jpg",
     "static/media/1.webp": "/UI-UX-Design-projects/static/media/1.ae6ec649f02b7bb1c3e5.webp",
     "static/media/2.jpg": "/UI-UX-Design-projects/static/media/2.d3ade0225ed4a39a0fd4.jpg",
@@ -17,10 +17,10 @@
     "static/media/Safe.jpg": "/UI-UX-Design-projects/static/media/Safe.bf6998976188be49fbc8.jpg",
     "index.html": "/UI-UX-Design-projects/index.html",
     "main.e1e46d5a.css.map": "/UI-UX-Design-projects/static/css/main.e1e46d5a.css.map",
-    "main.f4095930.js.map": "/UI-UX-Design-projects/static/js/main.f4095930.js.map"
+    "main.6b51befa.js.map": "/UI-UX-Design-projects/static/js/main.6b51befa.js.map"
   },
   "entrypoints": [
     "static/css/main.e1e46d5a.css",
-    "static/js/main.f4095930.js"
+    "static/js/main.6b51befa.js"
   ]
 }
