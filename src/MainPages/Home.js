@@ -1,11 +1,12 @@
 import React, { useState, useEffect } from "react";
 import "./Home.css";
-import { Link } from "react-router-dom";
 import image1 from "../image/5.jpg";
 import image2 from "../image/2.webp";
-import image3 from "../image/3.jpg";
+import image3 from "../image/2.jpg";
 import image4 from "../image/4.jpg";
 import image5 from "../image/1.webp";  
+import Navbar from "../Component/Navbar";
+
 
 
 const Home = () => {
@@ -68,35 +69,7 @@ const Home = () => {
 
   return (
     <div className="App">
-      <header>
-        <div className="logo">Travlia</div>
-        <ul className="menu">
-          <Link to={'/'}></Link><li>Home</li>
-          <Link to={'/'}></Link><li>Blog</li>
-          <Link to={'/'}></Link><li>Information</li>
-          <Link to={'/'}></Link><li>Feedback</li>
-        </ul>
-
-        
-        <div className="search">  
-          <svg
-            aria-hidden="true"
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            fill="none"
-            viewBox="0 0 24 24"
-          >
-            <path
-              stroke="currentColor"
-              strokeLinecap="round"
-              strokeWidth="2"
-              d="m21 21-3.5-3.5M17 10a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z"
-            />
-          </svg>
-        </div>
-      </header>
-
+      <Navbar/>
       <div className="slider">
         <div className="list">
           {sliderItems.map((item, index) => (
