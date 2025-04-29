@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UI-UX-Design-projects/static/css/main.e1e46d5a.css",
+    "main.js": "/UI-UX-Design-projects/static/js/main.f4095930.js",
+    "static/media/4.jpg": "/UI-UX-Design-projects/static/media/4.7b62cd4e53cf64019c0c.jpg",
+    "static/media/1.webp": "/UI-UX-Design-projects/static/media/1.ae6ec649f02b7bb1c3e5.webp",
+    "static/media/2.jpg": "/UI-UX-Design-projects/static/media/2.d3ade0225ed4a39a0fd4.jpg",
+    "static/media/Transportation.jpg": "/UI-UX-Design-projects/static/media/Transportation.321cfe68a4c0be45b30c.jpg",
+    "static/media/map.jpg": "/UI-UX-Design-projects/static/media/map.5e774ce9f7179e3e3725.jpg",
+    "static/media/2.webp": "/UI-UX-Design-projects/static/media/2.b3800c64317bef2eafe6.webp",
+    "static/media/5.jpg": "/UI-UX-Design-projects/static/media/5.2f9a0ec62fee676b4be0.jpg",
+    "static/media/Food.jpg": "/UI-UX-Design-projects/static/media/Food.ed142d76b0de71d7427d.jpg",
+    "static/media/3.jpg": "/UI-UX-Design-projects/static/media/3.bbd5ceb2e03424e6a792.jpg",
+    "static/media/Money.webp": "/UI-UX-Design-projects/static/media/Money.9b11d77f1b9c4694bfed.webp",
+    "static/media/Wether.jpg": "/UI-UX-Design-projects/static/media/Wether.d7b70acda73b51f2347f.jpg",
+    "static/media/History.jpg": "/UI-UX-Design-projects/static/media/History.21e0adc7f561dc68d6a3.jpg",
+    "static/media/Safe.jpg": "/UI-UX-Design-projects/static/media/Safe.bf6998976188be49fbc8.jpg",
+    "index.html": "/UI-UX-Design-projects/index.html",
+    "main.e1e46d5a.css.map": "/UI-UX-Design-projects/static/css/main.e1e46d5a.css.map",
+    "main.f4095930.js.map": "/UI-UX-Design-projects/static/js/main.f4095930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e46d5a.css",
+    "static/js/main.f4095930.js"
+  ]
+}
