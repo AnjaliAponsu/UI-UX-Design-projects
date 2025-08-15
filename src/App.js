@@ -1,23 +1,21 @@
 import './App.css';
 import Blog from './MainPages/Blog';
 import Home from './MainPages/Home';
-import { BrowserRouter as Router , Routes , Route} from 'react-router-dom';
 import Information from './MainPages/Information';
 import Feedback from './MainPages/Feedback';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/UI-UX-Design-projects">
         <Routes>
-          <Route exact path="/" element={<Home/>}></Route>
-          <Route exact path="/b" element={<Blog/>}></Route>
-          <Route exact path="/information" element={<Information/>}></Route>
-          <Route exact path="/feedback" element={<Feedback/>}></Route>
+          <Route path="/" element={<Home />} />
+          <Route path="/b" element={<Blog />} />
+          <Route path="/information" element={<Information />} />
+          <Route path="/feedback" element={<Feedback />} />
         </Routes>
       </Router>
-       
-      
     </div>
   );
 }
